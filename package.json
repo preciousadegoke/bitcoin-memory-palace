@@ -1,0 +1,9 @@
+{ 
+  "name": "bitcoin-memory-palace", 
+  "version": "1.0.0", 
+  "description": "AI-powered collective intelligence network for Bitcoin", 
+  "scripts": { 
+    "dev": "cd frontend && npm run dev", 
+    "build": "cd frontend && npm run build" 
+  } 
+} 
