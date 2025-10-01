@@ -103,20 +103,20 @@ Think of it as Bitcoin's Collective Brain - growing smarter with every shared ex
 ## Project Structure
 
 bitcoin-memory-palace/
-ÃÄÄ contracts/              Smart contracts
-³   ÀÄÄ memory-palace.clar  Main contract with fragment storage
-ÃÄÄ ai-engine/              AI processing backend
-³   ÃÄÄ src/
-³   ³   ÀÄÄ ai-server.js    Express server with AI endpoints
-³   ÀÄÄ .env                API keys configuration
-ÃÄÄ frontend/               React application
-³   ÃÄÄ src/
-³   ³   ÃÄÄ App.jsx         Main application component
-³   ³   ÀÄÄ App.css         Styling with animations
-³   ÀÄÄ package.json
-ÃÄÄ tests/                  Smart contract tests
-ÃÄÄ settings/               Clarinet configuration
-ÀÄÄ README.md
+ï¿½ï¿½ï¿½ contracts/              Smart contracts
+ï¿½   ï¿½ï¿½ï¿½ memory-palace.clar  Main contract with fragment storage
+ï¿½ï¿½ï¿½ ai-engine/              AI processing backend
+ï¿½   ï¿½ï¿½ï¿½ src/
+ï¿½   ï¿½   ï¿½ï¿½ï¿½ ai-server.js    Express server with AI endpoints
+ï¿½   ï¿½ï¿½ï¿½ .env                API keys configuration
+ï¿½ï¿½ï¿½ frontend/               React application
+ï¿½   ï¿½ï¿½ï¿½ src/
+ï¿½   ï¿½   ï¿½ï¿½ï¿½ App.jsx         Main application component
+ï¿½   ï¿½   ï¿½ï¿½ï¿½ App.css         Styling with animations
+ï¿½   ï¿½ï¿½ï¿½ package.json
+ï¿½ï¿½ï¿½ tests/                  Smart contract tests
+ï¿½ï¿½ï¿½ settings/               Clarinet configuration
+ï¿½ï¿½ï¿½ README.md
 
 ## Getting Started
 
@@ -130,10 +130,11 @@ bitcoin-memory-palace/
 ### Installation Steps
 
 1. Clone the repository
-   git clone https://github.com/yourusername/bitcoin-memory-palace.git
+   git clone https://github.com/preciousadegoke/bitcoin-memory-palace.git
    cd bitcoin-memory-palace
 
 2. Install frontend dependencies
+
    cd frontend
    npm install
 
@@ -292,4 +293,4 @@ Live Demo: [Deployment URL]
 
 *Making Bitcoin smarter, one memory at a time.*
 
-¸ 2025 Bitcoin Memory Palace
+ï¿½ 2025 Bitcoin Memory Palace
