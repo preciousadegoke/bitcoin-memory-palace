@@ -1,0 +1,18 @@
+---
+id: 0
+name: Testnet deployment
+network: testnet
+stacks-node: "https://api.testnet.hiro.so"
+bitcoin-node: "http://blockstack:blockstacksystem@bitcoind.testnet.stacks.co:18332"
+plan:
+  batches:
+    - id: 0
+      transactions:
+        - contract-publish:
+            contract-name: memory-palace
+            expected-sender: ST1KX9BHQXTAFGTN3RHXWTDJX29N3MQGEQE13NWKG
+            cost: 5358440
+            path: "contracts\\memory-palace.clar"
+            anchor-block-only: true
+            clarity-version: 3
+      epoch: "3.2"
